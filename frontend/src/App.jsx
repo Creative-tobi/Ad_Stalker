@@ -6,7 +6,7 @@ import {
   AlertCircle,
 } from "lucide-react";
 import { campaignService } from "./services/api";
-import { exportToPDF } from "./utils/Export";
+import { exportToPDF } from "./utils/export";
 
 // Components
 import KPICards from "./components/KPICards";
